@@ -1,2 +1,2 @@
 # velora-ai.
-velora ai
+Your personal AI assistant.
